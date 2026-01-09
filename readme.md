@@ -137,10 +137,6 @@ This enables:
 
 ---
 
-## Interview-Ready Summary
-> “I framed fraud detection as a cost-sensitive risk scoring problem under extreme class imbalance. Using the PaySim mobile money dataset, I engineered leakage-safe features and trained an XGBoost model evaluated with ROC-AUC and recall. The system achieved around 0.94 ROC-AUC with ~0.92 recall and was deployed using Docker on Azure App Service.”
-
----
 
 ## References
 - Lopez-Rojas, E. A., Elmir, A., Axelsson, S.  
